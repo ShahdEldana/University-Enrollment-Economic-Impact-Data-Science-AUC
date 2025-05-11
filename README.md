@@ -19,7 +19,6 @@ The report is divided into three primary sections:
 ## Files
 
 - `DS II Report.pdf` – The full analysis report
-- (Add any scripts, data files, or visuals here if available)
 
 ## Authors
 
