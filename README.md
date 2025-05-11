@@ -2,6 +2,10 @@
 
 This project is a data science analysis exploring the relationship between university enrollment rates and various economic indicators across countries with different levels of development. The analysis focuses on Germany (developed), Egypt (developing), and Ethiopia (underdeveloped), investigating how education influences income, unemployment, and public expenditure effectiveness.
 
+
+**Date of Completion**
+May 20, 2024
+
 ## Overview
 
 The report is divided into three primary sections:
